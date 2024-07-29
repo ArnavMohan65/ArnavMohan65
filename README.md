@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-https://tenor.com/btIQP.gif
+<div class="tenor-gif-embed" data-postid="19437909" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/%D0%BA%D1%80%D0%B0%D1%82%D0%BE%D1%81-krathos-fortnite-dance-emotes-gif-19437909">кратос Krathos Sticker</a>from <a href="https://tenor.com/search/%D0%BA%D1%80%D0%B0%D1%82%D0%BE%D1%81-stickers">кратос Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
