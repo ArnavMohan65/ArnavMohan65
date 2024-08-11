@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Software Developer</h1>
-<h3 align="center">A passionate Software Engineer from</h3>
+<h1 align="center">Hi 👋, I'm Arnav a Software Developer</h1>
+<h3 align="center">A passionate Software Engineer from VIT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnavmohan65&label=Profile%20views&color=0e75b6&style=flat" alt="arnavmohan65" /> </p>
 
